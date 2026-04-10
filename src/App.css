@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&family=Fraunces:opsz,wght@9..144,300..700&family=JetBrains+Mono:wght@400;500&display=swap');
+
 /* ── EU Project Manager — Design Tokens ── */
 :root {
   --bg: #f5f3ef;
@@ -37,8 +39,6 @@
   --font-display: 'Fraunces', Georgia, serif;
   --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&family=Fraunces:opsz,wght@9..144,300..700&family=JetBrains+Mono:wght@400;500&display=swap');
 
 *, *::before, *::after {
   box-sizing: border-box;
